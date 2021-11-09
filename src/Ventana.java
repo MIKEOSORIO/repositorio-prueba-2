@@ -10,6 +10,11 @@
  *
  * @author MIGUEL_CUPUL
  */
+
+public string variable(string cadena)
+{
+	system.out.println("linea de prueba" + cadena)
+}
 public class Ventana extends javax.swing.JFrame {
 
     /**
