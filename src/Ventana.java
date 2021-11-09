@@ -10,13 +10,13 @@
  *
  * @author MIGUEL_CUPUL
  */
-//nueva linea de prueba autor Miguel 
 public class Ventana extends javax.swing.JFrame {
 
     /**
      * Creates new form Ventana
      */
-    public Ventana() {
+  
+          public Ventana() {
         initComponents();
         
         setSize(720, 375);
@@ -24,7 +24,6 @@ public class Ventana extends javax.swing.JFrame {
         setVisible(true);
         setLocationRelativeTo(null);
         setTitle("MÉTODOS NUMÉRICOS");
-        
     }
 
     /**
